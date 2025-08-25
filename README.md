@@ -58,7 +58,7 @@ project_root/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/issue-tracker.git
+git clone https://github.com/SteRika/issue-tracker.git
 cd issue-tracker
 ```
 
